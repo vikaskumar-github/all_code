@@ -1,0 +1,4 @@
+name = tom
+job = IT
+company = wipro
+cloud = AWS
