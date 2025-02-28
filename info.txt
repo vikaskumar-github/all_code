@@ -1,4 +1,4 @@
 name = tom
 job = IT
 company = infosys
-cloud = GC
+cloud = Azure
