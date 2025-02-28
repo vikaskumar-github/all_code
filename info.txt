@@ -1,4 +1,4 @@
 name = tom
 job = IT
 company = HCL
-cloud = AWS
+cloud = Azure
